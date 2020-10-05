@@ -1,0 +1,102 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1em;
+}
+
+h1{
+  margin-top: 0;
+  font-size: 3rem;
+}
+.Guga{
+  background-image: url("https://i.pinimg.com/originals/5d/77/3c/5d773cbe077848df2943043ffb3a2795.png");
+  color: lightblue;
+  position: relative;
+  padding-top: 40px;
+  height: 500px;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  width: 10%;
+  border-bottom: none;
+  margin-bottom: 60px;
+}
+.intro{
+  font-size: 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-image{
+   width: 20%;
+   float:left;
+   margin-right: 30px;
+}
+.comm-image{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.profile{
+  width: 50%;
+  line-height: 2;
+  margin:auto;
+  padding-bottom: 50px;
+}
+.middle-container{
+  font-family: 'Sansita Swashed', cursive;
+  padding: 50px 0 100px 0;
+  color: #a0c1b8;
+}
+.header{
+  color: #4682B4;
+}
+.contact-info{
+  margin-top: 50px;
+}
+.bottom-container{
+background-color: lightblue;
+padding: 50px 0 20px 0;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Sansita Swashed', cursive;
+	font-size:20px;
+	font-style:italic;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color: #68b0ab;
+  font-family:'Sansita Swashed', cursive;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.copy-right{
+  color: white;
+  font-size: 0.7rem;
+}
